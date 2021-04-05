@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sai_krishna
-- 👀 I’m interested in HTML/CSS/Materialize.css Javascript, Vue.js and Flutter
+- 👀 I’m interested in HTML/CSS/Materialize.css, Javascript, Vue.js and Flutter
 - 🌱 I’m currently learning Vue.js and Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
